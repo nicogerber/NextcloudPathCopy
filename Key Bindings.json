@@ -1,0 +1,3 @@
+[
+    { "keys": ["F3"], "command": "copy_nextcloud_path_to_clipboard" }
+]
